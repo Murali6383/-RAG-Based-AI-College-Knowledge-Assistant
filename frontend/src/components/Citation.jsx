@@ -25,15 +25,16 @@ export default function Citation({
                 📄
               </span>
 
-              <span>
+              <span className="citation-file">
                 {citation.file}
               </span>
 
-              {citation.page && (
-                <span className="page-number">
-                  Page {citation.page}
-                </span>
-              )}
+              {citation.page !== null &&
+                citation.page !== undefined && (
+                  <span className="page-number">
+                    Page {citation.page}
+                  </span>
+                )}
 
             </div>
           )
