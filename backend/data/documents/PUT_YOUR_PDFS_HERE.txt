@@ -1,0 +1,10 @@
+Put your PDFs in this folder:
+- College regulations.pdf
+- Attendance rules.pdf
+- Exam regulations.pdf
+- Placement guidelines.pdf
+- Hostel rules.pdf
+- Leave policy.pdf
+- Department handbook.pdf
+
+Delete this TXT file after adding your PDFs if you want.

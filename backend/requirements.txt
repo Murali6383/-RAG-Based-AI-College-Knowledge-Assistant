@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+pydantic
+numpy
+faiss-cpu
+sentence-transformers
+pypdf
+google-generativeai
